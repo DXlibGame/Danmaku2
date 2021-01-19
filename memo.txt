@@ -1,0 +1,19 @@
+danmaku shooting:
+
+フレームワーク部分の作成（メニュー回りにサウンド追加）
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーー
+・Menu.cppを資料PDFに沿って更新する。
+
+・soundsフォルダを作成し、音データをおく。
+
+・ビルドして確認。
+
+
+追加・修正ソース：
+Menu.cpp
+
+追加ファイル（soundsフォルダ内）：
+botan.wav
+tm2_power000.wav
+yamiyouen.mp3
